@@ -1,0 +1,17 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+	"bierner.markdown-mermaid",
+	"esbenp.prettier-vscode",
+	"vscode-icons-team.vscode-icons",
+	"oderwat.indent-rainbow",
+	"vscjava.vscode-java-pack",
+	"SonarSource.sonarlint-vscode"
+      ]
+    }
+  }
+}
